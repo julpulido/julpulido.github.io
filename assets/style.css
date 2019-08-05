@@ -1,0 +1,43 @@
+.dot{
+    position: absolute;
+    height : 8px;
+    width : 8px;
+    background-color: brown;
+    border-radius: 50% ;
+    
+
+}
+
+#contentContainer {
+    position: relative;
+    width: 550px;
+    height: 350px;
+    border: 5px black solid;
+    overflow: hidden;
+    background-color: #F2F2F2;
+    cursor: pointer;
+    margin: 0 auto;
+}
+
+.btn {
+    border: none;
+    background-color: rgb(237, 243, 219);
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    
+  }
+
+/* Green */
+.start {
+  color: green;
+}
+  
+.start:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+  
