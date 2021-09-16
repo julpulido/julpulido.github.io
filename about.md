@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Welcome my friend! Let me introduce myself, I am Julian Pulido a Data Science practicioner, I have a Bachelor's degree in Mathematics from the Universidad Nacional de Colombia and a Master's degree, also in Maths, from Los Andes university.  This is my personal blog where you will find (I hope so) some articles about data science, programming and math stuff (especially combinatorics) that I might find interesting or handy. I you for some reason you want to reach out to me, feel free to send me an email to [julpulidoca@gmail.com]. See around!
